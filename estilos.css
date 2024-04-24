@@ -1,0 +1,43 @@
+/******************************/
+/* Estilos para el cuerpo HTML */
+/******************************/
+
+body {
+    color: #00F; /* Color del texto */
+    background-color: #CFC; /* Color de fondo */
+    font-family: Georgia, Cambria, serif; /* Familia de fuente */
+    font-size: 16px; /* Tamaño de fuente */
+}
+
+/******************************/
+/* Estilos para los encabezados */
+/******************************/
+
+h1 {
+    color: #F00; /* Color del texto */
+    font-family: Verdana, Calibri, sans-serif; /* Familia de fuente */
+    font-size: 32px; /* Tamaño de fuente */
+}
+
+h2 {
+    color: #A00; /* Color del texto */
+    font-family: Verdana, Calibri, sans-serif; /* Familia de fuente */
+    font-size: 24px; /* Tamaño de fuente */
+}
+
+/******************************/
+/* Estilos para elementos span, strong y em */
+/******************************/
+
+span {
+    color: #060; /* Color del texto */
+}
+
+strong {
+    font-size: 20px; /* Tamaño de fuente */
+}
+
+em {
+    color: #FFF; /* Color del texto */
+    background-color: #000; /* Color de fondo */
+}
